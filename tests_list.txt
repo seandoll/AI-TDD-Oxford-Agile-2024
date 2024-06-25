@@ -1,0 +1,27 @@
+Test with input 0, it should return an error message: "Roman numerals have no zero".
+Test with negative input, it should return an error message: "Roman numerals do not include negative numbers".
+Test with non-integer input, it should return an error message: "Roman numerals can only represent integers".
+Test with a number larger than 3999, it should return an error message: "Roman numerals can only represent numbers up to 3999".
+Test the function with simple test cases:
+Input: 1, Output: "I"
+Input: 4, Output: "IV"
+Input: 5, Output: "V"
+Test the function with a number that requires addition of several different roman numerals:
+Input: 6, Output: "VI"
+Input: 7, Output: "VII"
+Test the function with numbers that include a subtractive pair:
+Input: 9, Output: "IX"
+Input: 40, Output: "XL"
+Input: 90, Output: "XC"
+Test the function with more complex numbers:
+Input: 89, Output: "LXXXIX"
+Input: 3999, Output: "MMMCMXCIX"
+Test conversion for the milestones in Roman numerals:
+Input: 50, Output: "L"
+Input: 100, Output: "C"
+Input: 400, Output: "CD"
+Input: 500, Output: "D"
+Input: 900, Output: "CM"
+Input: 1000, Output: "M"
+Test conversion of a complex number like 1987 to its Roman representation:
+Input: 1987, Output: 'MCMLXXXVII'
