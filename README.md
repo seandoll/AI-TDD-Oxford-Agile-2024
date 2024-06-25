@@ -1,4 +1,4 @@
-# AI-Agile-Summit-2024-AI-TDD
+# AI-TDD-Template
 Publically available content delivered in 2024 AI Agile Summit session on AI-TDD
 
 ## Session Title
