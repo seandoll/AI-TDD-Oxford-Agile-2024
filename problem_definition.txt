@@ -1,0 +1,16 @@
+Simple: Write a function to convert decimal numbers to roman numerals.
+
+Simple: Write a function to convert roman numerals to decimal numbers.
+
+Challenge: Write some code which will process lists of group members, each with a Name and ID. 
+We want to be able to return the following lists, sorted by any combination of Name and ID, ascending or descending.
+* Unique members by name
+* Duplicate members by name
+* Unique members by ID
+* Duplicate members by ID
+* Counts of
+** Total members
+** Unique members by Name
+** Unique members by ID
+** Duplicate members by Name
+** Duplicate members by ID
