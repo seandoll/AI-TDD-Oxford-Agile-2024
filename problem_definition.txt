@@ -1,4 +1,5 @@
 Simple: Write a function to convert decimal numbers to roman numerals.
+I would prefer that we develop in this order: Invalid entries handled, for numbers up to 12, then numbers up to 24, then numbers up to 59, then remaining valid numbers.
 
 Simple: Write a function to convert roman numerals to decimal numbers.
 
