@@ -1,13 +1,13 @@
 # AI-TDD-Template
-Publically available content delivered in [session details] session on AI-TDD
+Publically available content delivered in Oxford Agile session on AI-TDD
 
 ## Session Title
 Leveraging GPT for Agile Test-Driven Development: A Real-Time Demonstration
 
 ## Session Schedule
-[Wednesday, June 26, 2024]
-[5:30 PM-6:00 PM GMT+1]
-[(30 minutes)]
+Wednesday, July 17, 2024]
+6:00 PM - 8:00 PM GMT+1
+120 minutes
 
 ## Session Description
 We know that AI can write code - but just like with humans - the question we should ask is "How do we know that the code works?"
