@@ -51,7 +51,7 @@ nr means proceed to next red phase
 fr means refactor the code
 
 Write the code in Python 3.8 using unittest as the test framework.
-When showing me a new test, only show the new test.
+Except for the first test, which has additional surrounding code, when showing me a new test, only show the new test.
 Because test functions are part of a class, the text needs to be indented each time you give me a new test function.
 Make sure that the declaration and function body are indented by 4 additional spaces,
 so that I can insert it directly into the test file.
